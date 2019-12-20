@@ -27,7 +27,7 @@
 
 ### [前言](README.md)
 
-1. [笑来课堂主课程](CHAPTER.01.md)
+1. [笑来课堂主课程](xiaolai-main-course)
 2. [逻辑课程Beyond Feelings - 刘晓艳](CHAPTER.02.md)
     - 2.1. [第一轮讲解](CHAPTER.02.1.md)
     - 2.2. [第二轮讲解](CHAPTER.02.2.md)    
