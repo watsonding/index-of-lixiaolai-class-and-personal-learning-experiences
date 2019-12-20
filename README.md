@@ -34,5 +34,5 @@
     - 2.1. [第一轮讲解](beyond-feelings-round1)
     - 2.2. [第二轮讲解](beyond-feelings-round2)    
 3. [认真读懂财务报表 - 王珊](financial-statements)
-4. [On Regular Investing - 王渊源 John](CHAPTER.03.md)
-5. [编程课 - 李俊](CHAPTER.04.md)
+4. [On Regular Investing - 王渊源 John](on-regular-investing)
+5. [编程课 - 李俊](programming)
