@@ -36,3 +36,4 @@
 3. [认真读懂财务报表 - 王珊](financial-statements)
 4. [On Regular Investing - 王渊源 John](on-regular-investing)
 5. [编程课 - 李俊](programming)
+6. [其他（待加入）]
