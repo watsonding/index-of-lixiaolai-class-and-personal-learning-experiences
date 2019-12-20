@@ -30,7 +30,7 @@
 1. [笑来课堂主课程](xiaolai-main-course)
     - 1.1. [收费课程]()
     - 1.2. [公开课程]()    
-2. [逻辑课程Beyond Feelings - 刘晓艳]()
+2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings)
     - 2.1. [第一轮讲解](CHAPTER.02.1.md)
     - 2.2. [第二轮讲解](CHAPTER.02.2.md)    
 3. [认真读懂财务报表 - 李俊](CHAPTER.04.md)
