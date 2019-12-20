@@ -33,6 +33,6 @@
 2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings)
     - 2.1. [第一轮讲解](beyond-feelings-round1)
     - 2.2. [第二轮讲解](beyond-feelings-round2)    
-3. [认真读懂财务报表 - 李俊](CHAPTER.04.md)
+3. [认真读懂财务报表 - 王珊](CHAPTER.04.md)
 4. [OnRegularInvesting - 王渊源 John](CHAPTER.03.md)
 5. [编程课 - 李俊](CHAPTER.04.md)
