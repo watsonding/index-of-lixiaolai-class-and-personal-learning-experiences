@@ -6,7 +6,7 @@
  
 【关键字】truth，真理，knowledge，知识，perception，感知，memory，记忆，cause-and-effect relationships，因果关系，assuming，假定，guessing，猜想
 
-===课程简介===
+### ===课程简介===
 
 一、真理
 
@@ -18,5 +18,4 @@
 
 [【个人补充例证】]
 
-===心得体会===
-
+### 学习笔记
