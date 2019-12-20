@@ -1,8 +1,3 @@
-# 笑来课堂索引及个人学习心得
-
-## 文档目的
-2019年7月3日，李笑来在Mixin创建践行群，并在践行群中进行笑来课堂授课。
-
 # 课程名称：Beyond Feelings 讲师：刘晓艳 授课周期：2019/10/31~
 
 ## 2019/11/04 Beyond Feelings - Chapter1 Concept - Truth and knowledge
