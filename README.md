@@ -3,15 +3,21 @@
 ## 文档目的
 2019年7月3日，李笑来在Mixin创建践行群，并在践行群中进行笑来课堂授课。
 
-本文档的目的是为笑来课堂建立一个查询和索引，以便践行群的小伙伴们根据需要查找相关课程。
+本文档的目的：
 
-同时，本文档也记录践行群小伙伴们的学习心得。
+1）建立一个笑来课堂的查询和索引文档，以便自己及践行群的小伙伴们根据需要查找相关课程。
+
+2）记录个人学习心得。
+
+本文档能解决的典型问题如：1）“我记得老师在课堂里讲过一个叫‘禀赋效应’的心理偏差，是在那一次课里面讲的呢？”，“老师曾经分析过父母教育小孩的失败原因，作为例证，是几月几号课堂里讲的呢？”，“老师做过一个‘眼镜’和‘教育’的类比，可以去几号的课堂查一下这个类比的具体内容呢？”，……
 
 ## 版权说明
-由于笑来老师践行群提供的是收费课程，本文档在编写过程中的第一原则是避免知识产权侵权。文档主要提供以下内容：
+
+由于践行群里讲师讲解的都是收费课程，本文档在编写过程中的首要原则是避免知识产权侵权。课程的详细内容需要读者付费加入践行群自行学习，本文档仅提供以下内容：
+
 > * 课程摘要信息
 > 
-包括关键字，课程内容概要。这部分以对课程线索的梳理为准，课程详细内容需要读者付费加入践行群进行学习。
+包括关键字，课程内容概要。这部分主要对课程线索进行梳理。
 
 例外说明：针对开源内容的授课，可能会直接体现课程原始内容，这种情况下，作者会与相关授课老师沟通，获得书面同意并在文档中注明。
 
@@ -70,13 +76,13 @@
 
 ### [前言](README.md)
 
-1. [笑来课堂主课程](xiaolai-main-course)
-    - 1.1. [收费课程](xiaolai-main-course-private)
-    - 1.2. [公开课程](xiaolai-main-course-public)    
-2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings)
-    - 2.1. [第一轮讲解](beyond-feelings-round1)
-    - 2.2. [第二轮讲解](beyond-feelings-round2)    
-3. [认真读懂财务报表 - 王珊](financial-statements)
-4. [On Regular Investing - 王渊源 John](on-regular-investing)
-5. [编程课 - 李俊](programming)
+1. [笑来课堂主课程](xiaolai-main-course.md)
+    - 1.1. [收费课程](xiaolai-main-course-private.md)
+    - 1.2. [公开课程](xiaolai-main-course-public.md)    
+2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings.md)
+    - 2.1. [第一轮讲解](beyond-feelings-round1.md)
+    - 2.2. [第二轮讲解](beyond-feelings-round2.md)    
+3. [认真读懂财务报表 - 王珊](financial-statements.md)
+4. [On Regular Investing - 王渊源 John](on-regular-investing.md)
+5. [编程课 - 李俊](programming.md)
 6. [其他（待加入）]
