@@ -5,9 +5,7 @@
 
 **“笑来课堂”，不仅仅是投资课堂……**
 
-加入践行群“笑来课堂”，请：
-> 1）联系Mixin ID：37425818（或微信：15112270139）
-> 或2）
+加入践行群“笑来课堂”，请联系Mixin ID：37425818（或微信：15112270139）。
 
 本文档的目的：
 
@@ -101,7 +99,7 @@
 ### [前言](README.md)
 
 0. [公开课程（不收费） - 李笑来](xiaolai-main-course-public.md)    
-1. [笑来课堂主课程 - 李笑来](xiaolai-main-course-private.md)
+1. [“笑来课堂”主课程 - 李笑来](xiaolai-main-course-private.md)
 2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings.md)
     - 2.1. [第一轮讲解](beyond-feelings-round1.md)
     - 2.2. [第二轮讲解](beyond-feelings-round2.md)    
@@ -109,3 +107,6 @@
 4. [On Regular Investing - 王渊源 John](on-regular-investing.md)
 5. [编程课 - 李俊](programming.md)
 6. [其他（待加入）]
+
+### [附录]
+1. [如何加入践行群“笑来课堂”](xiaolai-course.md)
