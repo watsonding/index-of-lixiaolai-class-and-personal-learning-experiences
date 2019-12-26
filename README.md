@@ -94,9 +94,8 @@
 
 ### [前言](README.md)
 
-1. [笑来课堂主课程](xiaolai-main-course.md)
-    - 1.1. [收费课程](xiaolai-main-course-private.md)
-    - 1.2. [公开课程](xiaolai-main-course-public.md)    
+0. [公开课程（不收费） - 李笑来](xiaolai-main-course-public.md)    
+1. [主课程 - 李笑来](xiaolai-main-course-private.md)
 2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings.md)
     - 2.1. [第一轮讲解](beyond-feelings-round1.md)
     - 2.2. [第二轮讲解](beyond-feelings-round2.md)    
