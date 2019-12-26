@@ -1,9 +1,13 @@
 # 笑来课堂索引及个人学习心得
 
 ## 文档目的
-2019年7月3日，李笑来在Mixin创建践行群，并在践行群中开设收费“笑来课堂”，对践行群小伙伴在投资领域及个人成长领域进行授课。
+2019年7月3日，李笑来在Mixin创建“BOX定投践行群”，并在践行群中开设收费“笑来课堂”，教授投资、逻辑、经济及个人成长等领域课程。
 
-> 加入践行群方式及获取践行群邀请码，请联系Mixin ID：37425818（微信：15112270139）
+**“笑来课堂”，不仅仅是投资课堂……**
+
+加入践行群“笑来课堂”，请：
+> 1）联系Mixin ID：37425818（或微信：15112270139）
+> 或2）
 
 本文档的目的：
 
@@ -97,7 +101,7 @@
 ### [前言](README.md)
 
 0. [公开课程（不收费） - 李笑来](xiaolai-main-course-public.md)    
-1. [主课程 - 李笑来](xiaolai-main-course-private.md)
+1. [笑来课堂主课程 - 李笑来](xiaolai-main-course-private.md)
 2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings.md)
     - 2.1. [第一轮讲解](beyond-feelings-round1.md)
     - 2.2. [第二轮讲解](beyond-feelings-round2.md)    
