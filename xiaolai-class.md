@@ -26,7 +26,7 @@
 >>
 >> YdLioYedS2Qqy6U47pMobL
 
-上面邀请码如过期，或者有其他疑问/困难，请[点击联系我](contact-infor.md)获得支持。
+上面邀请码如过期，或者有其他疑问/困难，请[点击联系我](contact-info.md)获得支持。
 
 **附：Mixin Messenger下载方式**
 
