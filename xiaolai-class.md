@@ -26,9 +26,9 @@
 >>
 >> YdLioYedS2Qqy6U47pMobL
 
-上面邀请码如过期，或者有疑问或者困难请联系***Mixin ID：37306471（或微信：13823150241）***
+上面邀请码如过期，或者有其他疑问/困难，请[点击联系我](contact-infor.md)获得支持。
 
-附：Mixin Messenger下载方式：
+**附：Mixin Messenger下载方式**
 
 > * iOS
 >   * 国内用户，在 iTunes [下载 Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)
