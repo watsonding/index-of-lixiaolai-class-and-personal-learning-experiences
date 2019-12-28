@@ -128,33 +128,33 @@
 
 2019/10/11 [你快乐吗？](xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
 
-2019/10/14 [走过路过，不要错过](20191014-public-course-dont-miss-it.md)
+2019/10/14 [走过路过，不要错过](xiaolai-main-course-private/20191014-public-course-dont-miss-it.md)
 
 2019/10/15~2019/11/14 定投改变命运（第三版）朗读（待补充）
 
-2019/11/18 [把事情说清楚的能力](20191118-private-course-explain-clearly.md)
+2019/11/18 [把事情说清楚的能力](xiaolai-main-course-private/20191118-private-course-explain-clearly.md)
 
-2019/11/19 [是时候进行线下区块链技术推广了](20191119-private-course-time-to-promote.md)
+2019/11/19 [是时候进行线下区块链技术推广了](xiaolai-main-course-private/20191119-private-course-time-to-promote.md)
 
-2019/11/20 [线下推广准备工作](20191120-private-course-preparation.md)
+2019/11/20 [线下推广准备工作](xiaolai-main-course-private/20191120-private-course-preparation.md)
 
-2019/11/22 [如何面对你所遭遇的不理解](20191122-private-course-misunderstanding.md)
+2019/11/22 [如何面对你所遭遇的不理解](xiaolai-main-course-private/20191122-private-course-misunderstanding.md)
 
-2019/11/22 [大跌后的心理按摩](20191122-private-course-take-it-easy.md)
+2019/11/22 [大跌后的心理按摩](xiaolai-main-course-private/20191122-private-course-take-it-easy.md)
 
-2019/11/25 [心理按摩-长期主义与淡定](20191125-private-course-long-term.md)
+2019/11/25 [心理按摩-长期主义与淡定](xiaolai-main-course-private/20191125-private-course-long-term.md)
 
-2019/11/26 [朋友](20191126-private-course-friends.md)
+2019/11/26 [朋友](xiaolai-main-course-private/20191126-private-course-friends.md)
 
-2019/11/27 [长期主义者](20191127-private-course-the-person-who-admire-long-term.md)
+2019/11/27 [长期主义者](xiaolai-main-course-private/20191127-private-course-the-person-who-admire-long-term.md)
 
 2019/11/28 一切的负面情绪都是幻觉（待补充）
 
-2019/12/03 [“七三韭菜节”过去5个月的信息沟通](20191203-private-course-last-five-months.md)
+2019/12/03 [“七三韭菜节”过去5个月的信息沟通](xiaolai-main-course-private/20191203-private-course-last-five-months.md)
 
 2019/12/07 关于Mixin签到领BTC活动的分享（待补充）
 
-2019/12/24 [不要让践行群成为大家培养优越感的地方](20191224-private-course-superiority.md)
+2019/12/24 [不要让践行群成为大家培养优越感的地方](xiaolai-main-course-private/20191224-private-course-superiority.md)
 
 ***"笑来课堂，不仅仅是投资课堂"***
 
