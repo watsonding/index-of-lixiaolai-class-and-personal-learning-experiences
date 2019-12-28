@@ -126,7 +126,7 @@
 
 2019/10/08 培养长期关系（待补充）
 
-2019/10/11 [你快乐吗？](20191011-private-course-are-you-happy.md)
+2019/10/11 [你快乐吗？](xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
 
 2019/10/14 [走过路过，不要错过](20191014-public-course-dont-miss-it.md)
 
