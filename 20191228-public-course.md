@@ -40,7 +40,7 @@ Mixin Messenger 下载方式，请参阅《区块链小白书》（ http://t.cn/
 
 > 7月12日生日完成[《定投改变命运》第一版开源版](https://github.com/xiaolai/regular-investing-in-box)。
 
-第二版已出版（可在当当、京东购买），国庆期间重写《定投改变命运》（第三版）](https://onregularinvesting.com/)（中英文）
+第二版已出版（可在当当、京东购买），国庆期间重写《定投改变命运》（第三版）](https://onregularinvesting.com/)，中英文同时发布
 
 > 背后产品：1）定投标的BOX（零管理费、零开润ETF基金）；2）BOX定投践行群
 
