@@ -128,7 +128,7 @@
 
 2019/10/11 [你快乐吗？](xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
 
-2019/10/14 [走过路过，不要错过](xiaolai-main-course-private/20191014-public-course-dont-miss-it.md)
+2019/10/14 [走过路过，不要错过](xiaolai-main-course-private/20191014-private-course-dont-miss-it.md)
 
 2019/10/15~2019/11/14 定投改变命运（第三版）朗读（待补充）
 
