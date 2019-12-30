@@ -1,5 +1,9 @@
 ## "笑来课堂"及索引文档动态及公告
 
+**2019/12/30**
+
+增加[《2019/12/13 公开课 - 区块链扫盲》](xiaolai-main-course-public/20191213-public-course-blockchain-abc.md)（尚未完成）
+
 **2019/12/27**
 
 增加2019/12/23 Beyond Feelings 第二轮第7讲课程简介
