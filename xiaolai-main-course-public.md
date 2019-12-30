@@ -11,4 +11,4 @@
 2. 2019/08/24 [公开课 - 李笑来] 待补充
 3. 2019/11/16 [公开课 - 李笑来] 待补充
 4. 2019/12/13 [公开课 - 区块链扫盲](xiaolai-main-course-public/20191213-public-course-blockchain-abc.md)
-5. 2019/12/28 [公开课 - 李笑来的 2019 年终总结](xiaolai-main-course-public/20191228-public-course.md)    
+5. 2019/12/28 [公开课 - 李笑来的 2019 年终总结](xiaolai-main-course-public/20191228-public-course-lixiaolai-2019.md)    
