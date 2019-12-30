@@ -16,7 +16,7 @@
 
 ##### 比特币与区块链的基础理解
 
-****什么是区块链：****
+*****什么是区块链：*****
 
 > 今天所谓的“区块链技术”（blockchain technology），在大多数人嘴里，很可能其实指的是分布式账簿技术（distributed ledger technology）。
 
