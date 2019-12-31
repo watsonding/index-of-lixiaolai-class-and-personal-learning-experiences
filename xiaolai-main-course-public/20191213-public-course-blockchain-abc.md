@@ -72,7 +72,7 @@ BOX至今累计投资920万个，流通市值1180万美元
 
 > 投资市场熊市永远长于牛市，定投策略采用者未来能赚到的钱，几乎全部来自漫长的熊市
 
-更具体的逻辑阐述详见[《定投改变命运》](https://onregularinvesting.com/)，或者加入[BOX定投践行群“笑来课堂”](/xiaolai-class.md)学习。
+更具体的逻辑阐述详见[《定投改变命运》](https://onregularinvesting.com/)，或者[加入BOX定投践行群“笑来课堂”](/xiaolai-class.md)学习。
 
 定投策略者观点总结：
 
