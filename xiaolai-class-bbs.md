@@ -2,7 +2,7 @@
 
 **2019/12/30**
 
-增加[《2019/12/13 公开课 - 区块链扫盲》](xiaolai-main-course-public/20191213-public-course-blockchain-abc.md)（尚未完成）
+增加[《2019/12/13 公开课 - 区块链扫盲》](xiaolai-main-course-public/20191213-public-course-blockchain-abc.md)
 
 **2019/12/27**
 
