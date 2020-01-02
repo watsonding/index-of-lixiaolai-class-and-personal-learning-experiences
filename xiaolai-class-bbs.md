@@ -1,12 +1,18 @@
 ## "笑来课堂"及索引文档动态及公告
 
+**2020/01/02**
+
+增加：2019/09/27 [控制情绪的唯一有效方法-成长](/xiaolai-main-course-private/20190927-private-course-emotion-control.md)
+
+增加：2019/10/08 [培养长期关系](/xiaolai-main-course-private/20191008-private-course-long-term-relationship.md)
+
 **2019/12/30**
 
-增加[《2019/12/13 公开课 - 区块链扫盲》](xiaolai-main-course-public/20191213-public-course-blockchain-abc.md)
+增加：[《2019/12/13 公开课 - 区块链扫盲》](xiaolai-main-course-public/20191213-public-course-blockchain-abc.md)
 
 **2019/12/27**
 
-增加2019/12/23 Beyond Feelings 第二轮第7讲课程简介
+增加：2019/12/23 Beyond Feelings 第二轮第7讲课程简介
 
 **2019/12/28课程预告（本公告来自李笑来微博信息）**
 
