@@ -1,9 +1,7 @@
 # 笑来课堂索引及个人学习心得
 
 ## 文档目的
-2019年7月3日，著名作家、投资人李笑来召开第一届“韭菜节”，随后在加密聊天平台Mixin Messenger创建“BOX定投践行群”，开设收费“笑来课堂”，传授投资、逻辑、经济、个人成长……等领域课程。
-
-关注[“笑来课堂“”最新动态及更新公告](xiaolai-class-bbs.md)及时获取本文档更新动态
+2019年7月3日，著名作家、投资人李笑来召开第一届“韭菜节”，随后在加密聊天平台Mixin Messenger创建“BOX定投践行群”，开设收费“笑来课堂”，传授投资、逻辑、经济、个人成长……等领域课程。关注[“笑来课堂“”最新动态及更新公告](xiaolai-class-bbs.md)及时获取本文档更新动态。
 
 **“笑来课堂”，不仅仅是投资课堂……**
 
@@ -43,7 +41,7 @@
 
 **收费课程**
 
-当前已有3600多人参加，开展中课程如下：
+当前已有3700多人参加，开展中课程如下：
 
 > 《“笑来课堂”主课程》
 
@@ -51,7 +49,7 @@
 
 授课内容：聚焦投资教育、区块链教育、沟通与写作等；
 
-授课日期：2019/7/3至今。当前基本保持每日更新。
+授课日期：2019/7/3至今。不定期更新。
 
 > 《逻辑课Beyond Feelings》
 
@@ -59,7 +57,7 @@
 
 授课内容：逻辑领域，结合英语教学，以《Beyond Feelings》为授课教材；
 
-授课日期：2019/10/31至今。每周两更，当前正在基于第一轮基础，进行第二轮深入讲解。
+授课日期：2019/10/31至今。每周两更，当前基于第一轮基础，已完成第二轮深入讲解。
 
 > 《认真读懂财务报表》
 
@@ -84,6 +82,27 @@
 授课内容：编程知识
 
 授课日期：至今；每周两更。
+
+
+
+## 目录
+
+### [前言](README.md)
+
+0. [公开课程（不收费） - 李笑来](xiaolai-main-course-public.md)    
+1. [“笑来课堂”主课程 - 李笑来](xiaolai-main-course-private.md)
+2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings.md)
+    - 2.1. [第一轮讲解](beyond-feelings-round1.md)
+    - 2.2. [第二轮讲解](beyond-feelings-round2.md)    
+3. [认真读懂财务报表 - 王珊](financial-statements.md)
+4. [On Regular Investing - 王渊源 John](on-regular-investing.md)
+5. [编程课 - 李俊](programming.md)
+6. [其他（待加入）]
+
+### [附录]
+1. [如何加入践行群“笑来课堂”](xiaolai-class.md)
+2. [“笑来课堂”咨询支持](contact-info.md)
+
 
 ## 版权说明
 
@@ -154,21 +173,3 @@
 
 ## 关于内容修正
 欢迎践行群小伙伴们对文档内容进行修正补充，共同提高学习效率。
-
-## 目录
-
-### [前言](README.md)
-
-0. [公开课程（不收费） - 李笑来](xiaolai-main-course-public.md)    
-1. [“笑来课堂”主课程 - 李笑来](xiaolai-main-course-private.md)
-2. [逻辑课程Beyond Feelings - 刘晓艳](beyond-feelings.md)
-    - 2.1. [第一轮讲解](beyond-feelings-round1.md)
-    - 2.2. [第二轮讲解](beyond-feelings-round2.md)    
-3. [认真读懂财务报表 - 王珊](financial-statements.md)
-4. [On Regular Investing - 王渊源 John](on-regular-investing.md)
-5. [编程课 - 李俊](programming.md)
-6. [其他（待加入）]
-
-### [附录]
-1. [如何加入践行群“笑来课堂”](xiaolai-class.md)
-2. [“笑来课堂”咨询支持](contact-info.md)
