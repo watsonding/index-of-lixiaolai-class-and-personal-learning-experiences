@@ -122,7 +122,7 @@
 
 2019/09/26 普遍的认知失调及其副作用 （待补充）
 
-2019/09/27 控制情绪的唯一有效方法：成长（待补充）
+2019/09/27 [控制情绪的唯一有效方法-成长](/xiaolai-main-course-private/20190927-private-course-emotion-control.md)
 
 2019/10/08 [培养长期关系](/xiaolai-main-course-private/20191008-private-course-long-term-relationship.md)
 
