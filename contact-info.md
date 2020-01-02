@@ -2,9 +2,9 @@
 
 **技术支持联系方式**
 
-> Mixin ID：37306471 [](/images/MixinID 37306471.jpg)
+> Mixin ID：37306471 ![](/images/MixinID 37306471.jpg)
 >
-> 微信 ID：13823150241 [](/images/WeixinID 13823150241.jpg)
+> 微信 ID：13823150241 ![](/images/WeixinID 13823150241.jpg)
 
 **技术支持专用社群**
 
