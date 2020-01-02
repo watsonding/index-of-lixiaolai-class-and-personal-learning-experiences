@@ -6,9 +6,7 @@
 >
 > 微信 ID：13823150241 
 
-![MixinID](images/MixinID-37306471.jpg)
-
-![WechatID](images/WeixinID-13823150241.jpg)
+![MixinID](images/MixinID-37306471.jpg) ![WechatID](images/WeixinID-13823150241.jpg)
 
 
 **技术支持专用社群**
