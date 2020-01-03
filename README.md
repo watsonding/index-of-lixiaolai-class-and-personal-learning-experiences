@@ -107,8 +107,9 @@
 6. [人间值得 - 廖智](worth-of-it.md)
 
 ### [附录]
-1. [如何加入践行群“笑来课堂”](xiaolai-class.md)
-2. [“笑来课堂”咨询支持](contact-info.md)
+1. [相关书籍、文章](books.md)
+2. [如何加入践行群“笑来课堂”](xiaolai-class.md)
+3. [“笑来课堂”咨询支持](contact-info.md)
 
 
 ## 版权说明
