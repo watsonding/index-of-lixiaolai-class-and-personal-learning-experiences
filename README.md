@@ -104,7 +104,7 @@
 3. [认真读懂财务报表 - 王珊](financial-statements.md)
 4. [On Regular Investing - 王渊源 John](on-regular-investing.md)
 5. [编程课 - 李俊](programming.md)
-6. [人间值得 - 廖智](worthy-of-it.md)
+6. [人间值得 - 廖智](worth-of-it.md)
 
 ### [附录]
 1. [如何加入践行群“笑来课堂”](xiaolai-class.md)
