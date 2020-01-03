@@ -156,6 +156,8 @@
 
 2019/12/24 [不要让践行群成为大家培养优越感的地方](xiaolai-main-course-private/20191224-private-course-superiority.md)
 
+2020/01/03 [过去半年的基本进展](xiaolai-main-course-private/20200103-private-course-semi-annual-summary.md)
+
 ***"笑来课堂，不仅仅是投资课堂"***
 
 [返回《笑来课堂索引及个人学习心得》首页](README.md)
