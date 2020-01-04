@@ -1,5 +1,9 @@
 ## "笑来课堂"及索引文档动态及公告
 
+**2020/01/03**
+
+增加：2020/01/03 [过去半年的基本进展](xiaolai-main-course-private/20200103-private-course-semi-annual-summary.md)
+
 **2020/01/02**
 
 增加：2019/09/27 [控制情绪的唯一有效方法-成长](/xiaolai-main-course-private/20190927-private-course-emotion-control.md)
