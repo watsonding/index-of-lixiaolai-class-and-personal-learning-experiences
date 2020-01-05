@@ -144,29 +144,49 @@
 
 > 如何提升“把事情说清楚”这个人生最基本的能力？如何避免将沟通变为争吵？“有效表达”的终极目的是什么？[**学习笔记**](/xiaolai-main-course-private/20191118-private-course-explain-clearly.md)
 
-2019/11/19 [是时候进行线下区块链技术推广了](/xiaolai-main-course-private/20191119-private-course-time-to-promote.md)
+2019/11/19 [是时候进行线下区块链技术推广了]
 
-2019/11/20 [线下推广准备工作](/xiaolai-main-course-private/20191120-private-course-preparation.md)
+> 为什么现在是可以进行区块链技术推广了？
 
-2019/11/22 [如何面对你所遭遇的不理解](/xiaolai-main-course-private/20191122-private-course-misunderstanding.md)
+2019/11/20 [线下推广准备工作]
 
-2019/11/22 [大跌后的心理按摩](/xiaolai-main-course-private/20191122-private-course-take-it-easy.md)
+> 线下推广可能遇到什么样的困难及如何应对？这种困难和应对方法对教育孩子有什么帮助？
 
-2019/11/25 [心理按摩-长期主义与淡定](/xiaolai-main-course-private/20191125-private-course-long-term.md)
+2019/11/22 [如何面对你所遭遇的不理解]
 
-2019/11/26 [朋友](/xiaolai-main-course-private/20191126-private-course-friends.md)
+> 沟通失败，除了自己表达问题外，还有什么更重要的非自己所能左右的原因？如何面对和解决这种困难？
 
-2019/11/27 [长期主义者](/xiaolai-main-course-private/20191127-private-course-the-person-who-admire-long-term.md)
+2019/11/22 [大跌后的心理按摩]
+
+> 比特币所采用的“区块链”技术与人们口中的区块链技术有什么差别？为什么说“区块链”技术能做的事情并不多，基本上只适合比特币本身？[**学习笔记**](/xiaolai-main-course-private/20191122-private-course-take-it-easy.md)
+
+2019/11/25 [心理按摩-长期主义与淡定]
+
+> 在面对短期的纷纷扰扰时，如何保持淡定和从容？今天课程里，老师还简要说明了后面即将推出的一些事情。
+
+2019/11/26 [朋友]
+
+> 对每个人来说，朋友最有价值的部分是什么？钱在提升幸福度方面起了什么作用？
+
+2019/11/27 [长期主义者]
+
+> 为什么“践行群”最有利于让成员成为长期主义者？
 
 2019/11/28 一切的负面情绪都是幻觉（待补充）
 
-2019/12/03 [“七三韭菜节”过去5个月的信息沟通](/xiaolai-main-course-private/20191203-private-course-last-five-months.md)
+2019/12/03 [“七三韭菜节”过去5个月的信息沟通]
+
+> 过去五个月的总结；如何保护孩子不受钱的伤害？
 
 2019/12/07 关于Mixin签到领BTC活动的分享（待补充）
 
-2019/12/24 [不要让践行群成为大家培养优越感的地方](xiaolai-main-course-private/20191224-private-course-superiority.md)
+2019/12/24 [不要让践行群成为大家培养优越感的地方]
 
-2020/01/03 [过去半年的基本进展](xiaolai-main-course-private/20200103-private-course-semi-annual-summary.md)
+> 四处刷优越感有什么害处？为什么对别人要友善和真诚？[**学习笔记**](xiaolai-main-course-private/20191224-private-course-superiority.md)
+
+2020/01/03 [过去半年的基本进展]
+
+> 过去半年的践行群情况总结，BOX定投情况总结；践行群课程学习对投资起什么样的关键作用？后面课程预告。
 
 ## ***"笑来课堂，不仅仅是投资课堂……"***
 
