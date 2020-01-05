@@ -132,7 +132,7 @@
 
 2019/10/11 你快乐吗？
 
-> 快乐的方法论是什么？定投策略是怎样让自己变得更快乐的？如何学习和磨练“快乐”这种本领？[学习笔记](/xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
+> 快乐的方法论是什么？定投策略是怎样让自己变得更快乐的？如何学习和磨练“快乐”这种本领？[**学习笔记**](/xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
 
 2019/10/14 [走过路过，不要错过](/xiaolai-main-course-private/20191014-private-course-dont-miss-it.md)
 
