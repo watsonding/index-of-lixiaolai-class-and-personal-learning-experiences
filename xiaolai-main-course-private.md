@@ -134,11 +134,15 @@
 
 > 快乐的方法论是什么？定投策略是怎样让自己变得更快乐的？如何学习和磨练“快乐”这种本领？[**学习笔记**](/xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
 
-2019/10/14 [走过路过，不要错过](/xiaolai-main-course-private/20191014-private-course-dont-miss-it.md)
+2019/10/14 [走过路过，不要错过]
+
+> 如何才能不“追涨杀跌”？如何才能不错过投资市场的增长红利？
 
 2019/10/15~2019/11/14 定投改变命运（第三版）朗读（待补充）
 
-2019/11/18 [把事情说清楚的能力](/xiaolai-main-course-private/20191118-private-course-explain-clearly.md)
+2019/11/18 [把事情说清楚的能力]
+
+> 如何提升“把事情说清楚”这个人生最基本的能力？如何避免将沟通变为争吵？“有效表达”的终极目的是什么？[**学习笔记**](/xiaolai-main-course-private/20191118-private-course-explain-clearly.md)
 
 2019/11/19 [是时候进行线下区块链技术推广了](/xiaolai-main-course-private/20191119-private-course-time-to-promote.md)
 
