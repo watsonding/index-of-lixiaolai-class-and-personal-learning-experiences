@@ -126,9 +126,13 @@
 
 > 为什么我们控制不住自己的情绪和直觉？如何优化我们的情绪和直觉？
 
-2019/10/08 [培养长期关系](/xiaolai-main-course-private/20191008-private-course-long-term-relationship.md)
+2019/10/08 培养长期关系
 
-2019/10/11 [你快乐吗？](/xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
+> 一个人如何才能获得幸福感？培养长期关系对获得“幸福感”有什么作用？如何培养长期关系？由如何与自己培养长期亲密关系？
+
+2019/10/11 你快乐吗？
+
+> 快乐的方法论是什么？定投策略是怎样让自己变得更快乐的？如何学习和磨练“快乐”这种本领？[学习笔记](/xiaolai-main-course-private/20191011-private-course-are-you-happy.md)
 
 2019/10/14 [走过路过，不要错过](/xiaolai-main-course-private/20191014-private-course-dont-miss-it.md)
 
