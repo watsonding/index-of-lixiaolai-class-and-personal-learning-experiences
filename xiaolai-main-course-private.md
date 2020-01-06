@@ -122,7 +122,7 @@
 
 2019/09/26 普遍的认知失调及其副作用
 
-> 什么样的心理偏差会导致人们普遍会高估自己？如何避免这种认知失调在投资领域带来的损失？[**学习笔记**](/xiaolai-main-course-private/20191011-private-course-imbalance.md)
+> 什么样的心理偏差会导致人们普遍会高估自己？如何避免这种认知失调在投资领域带来的损失？[**学习笔记**](/xiaolai-main-course-private/20190926-private-course-imbalance.md)
 
 2019/09/27 控制情绪的唯一有效方法-成长
 
