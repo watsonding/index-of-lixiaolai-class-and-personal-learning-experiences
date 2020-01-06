@@ -9,9 +9,11 @@
 >>   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[小米应用商店下载](http://app.mi.com/details?id=one.mixin.messenger)
 >>   * 国外用户，在 [Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 >
-> ***第二步：在Mixin Messenger搜索群号：7000102069，进入“BOX定投践行群”，点击右下角小机器人图标（像猪嘴巴的那个图标^_^)***
+> ***第二步：加入“BOX定投践行群”***
 >
-> ***第三步：输入任意一个邀请码。***
+> 在Mixin Messenger APP，使用放大镜搜索群号：7000102069，点击进入“BOX定投践行群”，点击右下角小机器人图标（像猪嘴巴的那个图标^_^)
+>
+> ***第三步：输入下面任意一个邀请码。***
 >
 > 花式邀请码，总有一款适合你。快将你的邀请码领回家……
 >
