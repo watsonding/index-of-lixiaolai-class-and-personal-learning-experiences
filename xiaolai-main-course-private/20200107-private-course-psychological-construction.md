@@ -1,4 +1,4 @@
-## [“笑来课堂”主课程](/xiaolai-main-course-private.md) 2020/01/07 大涨之后的心理按摩
+## [“笑来课堂”主课程](/xiaolai-main-course-private.md)：2020/01/07 大涨之后的心理按摩
 
 提一个问题：
 
