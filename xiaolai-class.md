@@ -1,6 +1,6 @@
 **三步加入践行群“笑来课堂”**
 
-> ***第一步：下载Mixin Messenger***
+> ***第一步：下载[Mixin Messenger](https://mixin.one/messenger)***
 >
 >> * iOS
 >>   * 国内用户，在 iTunes [下载 Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)
