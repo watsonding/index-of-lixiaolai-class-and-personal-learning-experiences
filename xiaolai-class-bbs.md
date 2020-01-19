@@ -2,7 +2,7 @@
 
 **2018/01/20**
 
-增加：“笑来课堂”公开课：[2020/01/18 公开课]((xiaolai-main-course-public/20200118-public-course-20200118.md))
+增加：“笑来课堂”公开课：[2020/01/18 公开课](/xiaolai-main-course-public/20200118-public-course-20200118.md)
 
 **2018/01/18**
 
