@@ -1,5 +1,9 @@
 ## "笑来课堂"及索引文档动态及公告
 
+**2019/12/16**
+增加：“Beyond Feelings”第5讲：错误之母“我的更好”之观点错误和过程错误。[**学习笔记2-人的“自利心”浅析**](/beyond-feelings/20191216-round2-errors-self-interested.md) 
+
+
 **2018/01/20**
 
 增加：“笑来课堂”公开课：[2020/01/18 公开课](/xiaolai-main-course-public/20200118-public-course-20200118.md)
