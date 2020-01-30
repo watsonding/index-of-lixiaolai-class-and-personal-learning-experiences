@@ -12,7 +12,7 @@
 
 2019/12/12 第4讲：证据与论证。[**学习笔记**](/beyond-feelings/20191212-round2-evidence.md)
 
-2019/12/16 第5讲：错误之母“我的更好”之观点错误和过程错误。[**学习笔记**](/beyond-feelings/20191216-round2-errors.md)
+2019/12/16 第5讲：错误之母“我的更好”之观点错误和过程错误。[**学习笔记**](/beyond-feelings/20191216-round2-errors.md) [**学习笔记2-人的“自利心”浅析**](/beyond-feelings/20191216-round2-errors-self-interested.md) 
 
 2019/12/19 第6讲：错误之母“我的更好”之表达错误和反应错误。[**学习笔记**](/beyond-feelings/20191216-round2-errors2.md)
 
