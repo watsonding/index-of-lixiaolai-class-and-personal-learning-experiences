@@ -2,7 +2,9 @@
 
 **2019/12/16**
 
-增加：“Beyond Feelings”第5讲：错误之母“我的更好”之观点错误和过程错误。[**学习笔记2-人的“自利心”浅析**](/beyond-feelings/20191216-round2-errors-self-interested.md) 
+增加：“Beyond Feelings”第5讲：错误之母“我的更好”之观点错误和过程错误。
+
+[**学习笔记2-人的“自利心”浅析**](/beyond-feelings/20200130-self-interested.md) 
 
 
 **2018/01/20**
