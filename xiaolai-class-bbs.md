@@ -1,17 +1,21 @@
 ## "笑来课堂"及索引文档动态及公告
 
-**2019/12/16**
+**2020/02/06**
+
+增加：[《定投改变命运（发行版）》导读](/xiaolai-main-course-public/understanding_of_onregularinvesting_publish_version.md) 第一至三章
+
+**2020/01/22**
 
 增加：“Beyond Feelings”第5讲：错误之母“我的更好”之观点错误和过程错误。
 
 [**学习笔记2-人的“自利心”浅析**](/beyond-feelings/20200130-self-interested.md) 
 
 
-**2018/01/20**
+**2020/01/20**
 
 增加：“笑来课堂”公开课：[2020/01/18 公开课](/xiaolai-main-course-public/20200118-public-course-20200118.md)
 
-**2018/01/18**
+**2020/01/18**
 
 今天（2018年1月18日）晚上20:00，李笑来，定投公开课。参加方式，Mixin群ID：7000102093 。加入有困难，请[联系技术支持](/contact-info.md)
 
