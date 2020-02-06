@@ -4,6 +4,8 @@
 
 增加：[《定投改变命运（发行版）》导读](/xiaolai-main-course-public/understanding_of_onregularinvesting_publish_version.md) 第一至三章
 
+增加：“笑来课堂”主课程：2020/02/04 王渊源介绍“地道英语发音训练营”课程和销售机会，2月8日23点报名截止，20月10日开营。
+
 **2020/01/22**
 
 增加：“Beyond Feelings”第5讲：错误之母“我的更好”之观点错误和过程错误。
