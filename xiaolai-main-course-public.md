@@ -14,4 +14,6 @@
 5. 2019/12/28 [公开课 - 李笑来的 2019 年终总结](/xiaolai-main-course-public/20191228-public-course-lixiaolai-2019.md)    
 6. 2020/01/18 [公开课 - 20200118](/xiaolai-main-course-public/20200118-public-course-20200118.md) 
 
-## [《定投改变命运（发行版）》学习笔记](/xiaolai-main-course-public/understanding_of_onregularinvesting_publish_version.md)
+## 学习笔记
+
+0. [《定投改变命运（发行版）》学习笔记](/xiaolai-main-course-public/understanding_of_onregularinvesting_publish_version.md)
