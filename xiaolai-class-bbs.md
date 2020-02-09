@@ -1,5 +1,9 @@
 ## "笑来课堂"及索引文档动态及公告
 
+**2020/02/09**
+
+增加：“笑来课堂”主课程：2020/02/09 行情上涨的心理按摩
+
 **2020/02/06**
 
 增加：[《定投改变命运（发行版）》导读](/xiaolai-main-course-public/understanding_of_onregularinvesting_publish_version.md) 第一至三章
