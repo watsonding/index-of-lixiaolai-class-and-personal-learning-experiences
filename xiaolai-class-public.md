@@ -9,7 +9,7 @@
 >>   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[小米应用商店下载](http://app.mi.com/details?id=one.mixin.messenger)
 >>   * 国外用户，在 [Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 >
-> ***第二步：加入“BOX定投践行群”***
+> ***第二步：加入“区块链公开课”***
 >
 > 在Mixin Messenger APP，搜索：7000102093，点击“区块链公开课”即可免费加入。
 
