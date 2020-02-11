@@ -13,7 +13,7 @@
 5. 2019/12/13 [公开课 - 区块链扫盲](/xiaolai-main-course-public/20191213-public-course-blockchain-abc.md)
 6. 2019/12/28 [公开课 - 李笑来的 2019 年终总结](/xiaolai-main-course-public/20191228-public-course-lixiaolai-2019.md)    
 7. 2020/01/18 [公开课 - 20200118](/xiaolai-main-course-public/20200118-public-course-20200118.md) 
-8. 2020/02/10 [公开课 - 做一个更有希望的人](/xiaolai-main-course-public/20200118-public-course-hope.md) 
+8. 2020/02/10 [公开课 - 做一个更有希望的人](/xiaolai-main-course-public/20200210-public-course-hope.md) 
 
 
 ## 《定投改变命运》导读
