@@ -166,7 +166,11 @@
 
 > 尽量不让自己过去不好的部分影响自己的未来，人生一切值得挣扎的地方，就在这里了。
 
+看一个挣扎的例子吧：
 
+[蝙蝠侠丹尼尔](https://www.ted.com/talks/daniel_kish_how_i_use_sonar_to_navigate_the_world/transcript?language=zh-cn)
+
+你还相信过去必然影响将来吗？
 
 ## ***"笑来课堂，不仅仅是投资课堂……"***
 
