@@ -60,7 +60,7 @@
 
 以GAFATA为例，阿里从2003年已经涨了300多倍。
 
-![joke1](/xiaolai-main-course-public/images/20200210-gafata-data.png)
+![gafata](/xiaolai-main-course-public/images/20200210-gafata-data.png)
 
 > 所以去做对未来有帮助的事很重要，比如学习、锻炼、亲子关系、家庭关系、通过读书养成自己的性格。
 
