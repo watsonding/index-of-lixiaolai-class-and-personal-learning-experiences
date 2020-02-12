@@ -1,3 +1,5 @@
+[直接定投BOX可以吗？为什么要加入“笑来课堂”？](/xiaolai-class-why.md)
+
 **三步加入践行群“笑来课堂”**
 
 > ***第一步：下载[Mixin Messenger](https://mixin.one/messenger)***
@@ -41,5 +43,4 @@
 
 上面邀请码如过期，或者有其他疑问/困难，请[点击联系我](contact-info.md)获得支持。
 
-注：iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
-
+注：iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数
