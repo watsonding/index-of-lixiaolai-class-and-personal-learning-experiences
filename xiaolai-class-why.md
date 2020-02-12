@@ -14,4 +14,4 @@
 
 > 总而言之，笑来老师原话就是：**“笑来定投课堂就是学员跟李笑来共同成长的地方 —— 少废话、多赚钱，这很实在。”**
 
-### 其他就不多说了，详细参见笑来老师自己[为“笑来课堂”打的广告](https://onregularinvesting.com/#/cn/?id=_3-关于-box-定投践行群)
+### 其他就不多说了，详细参见笑来老师自己[为“笑来课堂”打的广告](https://onregularinvesting.com/#/cn/?id=_3-关于-box-定投践行群)，[另外一个广告](https://github.com/xiaolai/regular-investing-in-box/blob/master/Z-Appendix.04.md)
