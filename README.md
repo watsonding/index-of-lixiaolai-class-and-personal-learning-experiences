@@ -93,6 +93,7 @@
 6. [人间值得 - 廖智](worth-of-it.md)
 
 ### [附录]
+0. [直接定投BOX可以吗？为什么要加入“笑来课堂”？](/xiaolai-class-why.md)
 1. [相关书籍、文章](/books.md)
 2. [如何加入践行群“笑来课堂”？快将你的邀请码领回家……](/xiaolai-class.md)
 3. [“笑来课堂”咨询支持](/contact-info.md)
