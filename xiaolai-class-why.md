@@ -1,4 +1,4 @@
-不加入课堂，直接定投BOX当然是可以的，自己在Exinone购买就可以了（待补充具体操作方法）。
+不加入课堂，直接定投BOX当然是可以的，自己[在b.watch或者Exinone购买](https://bwatch.zendesk.com/hc/zh-cn/articles/360032543032-BOX-%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B)就可以了。
 
 但是：
 
