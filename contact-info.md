@@ -2,9 +2,9 @@
 
 **技术支持联系方式**
 
-> Mixin ID：37306471  ![MixinID](images/MixinID-37306471.jpg)
+> Mixin ID：37306471  ![MixinID](/images/MixinID-37306471.jpg)
 >
-> 微信 ID：13823150241，请备注：笑来课堂  ![WechatID](images/WeixinID-13823150241.jpg)
+> 微信 ID：13823150241，请备注：笑来课堂  ![WechatID](/images/WeixinID-13823150241.jpg)
 
  
 
