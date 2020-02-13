@@ -6,7 +6,7 @@
 
 笑来老师在书中暗指的意思是，本书的定投理论同样适合中国A股市场。真是情况是这样吗？笑来老师的定投理论适合中国A股市场吗？
 
-先让我们看一下中国A股5大指数：
+指数可以代表一个股市的整体情况，让我们先看一下中国A股5大指数：
 
 [上证指数](http://quote.eastmoney.com/zs000001.html)：
 
@@ -27,6 +27,7 @@
 [上证180指数](http://quote.eastmoney.com/zs000010.html)：
 
 ![shangzheng180zhishu000010](/xiaolai-main-course-public/images/shangzheng180zhishu000010.jpg)
+
 
 再看美股标普500指数：[标普500指数](http://quote.eastmoney.com/gb/zsSPX.html)：
 
