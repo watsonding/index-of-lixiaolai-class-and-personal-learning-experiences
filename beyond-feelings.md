@@ -1,5 +1,5 @@
 
-点击打开[逻辑课来源的学习材料](https://github.com/liudawozhemebang/beyond-feelings)
+[点击打开逻辑课开源的学习材料](https://github.com/liudawozhemebang/beyond-feelings)
 
 （这个课程虽然是践行群内部课程，但是教材和讲义都是开源的，有兴趣的话也可以自学）
 
