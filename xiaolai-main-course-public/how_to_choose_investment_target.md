@@ -6,6 +6,10 @@
 
 笑来老师在书中暗指的意思是，本书的定投理论同样适合中国A股市场。真是情况是这样吗？笑来老师的定投理论适合中国A股市场吗？
 
+先让我们看一下中国A股5大指数：[上证指数](http://quote.eastmoney.com/zs000001.html)、[深圳综合指数](http://quote.eastmoney.com/zs399106.html)、[沪深300指数](http://quote.eastmoney.com/zs000300.html)、[中证100指数](http://quote.eastmoney.com/zs000903.html)、[上证180指数](http://quote.eastmoney.com/zs000010.html)；
+
+
+
 让我们拿A股最典型的两支ETF基金做个分析，[易方达创业板ETF159915](http://quote.eastmoney.com/sz159915.html)和[嘉实沪深300ETF159919](http://quote.eastmoney.com/sz159919.html)。
 
 易方达创业板ETF159915成立日期为2011年09月20日，
