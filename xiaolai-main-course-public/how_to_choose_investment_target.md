@@ -8,21 +8,30 @@
 
 先让我们看一下中国A股5大指数：
 
-[上证指数](http://quote.eastmoney.com/zs000001.html)
+[上证指数](http://quote.eastmoney.com/zs000001.html)：
 
 ![shangzhengzhishu000001](/xiaolai-main-course-public/images/shangzhengzhishu000001.jpg)
 
-[深圳综合指数](http://quote.eastmoney.com/zs399106.html)
+[深圳综合指数](http://quote.eastmoney.com/zs399106.html)：
 
 ![shenzhengzongzhi399106](/xiaolai-main-course-public/images/shenzhengzongzhi399106.jpg)
 
-[沪深300指数](http://quote.eastmoney.com/zs000300.html)
+[沪深300指数](http://quote.eastmoney.com/zs000300.html)：
 
-[中证100指数](http://quote.eastmoney.com/zs000903.html)
+![hushen300zhishu000300](/xiaolai-main-course-public/images/hushen300zhishu000300.jpg)
 
-[上证180指数](http://quote.eastmoney.com/zs000010.html)；
+[中证100指数](http://quote.eastmoney.com/zs000903.html)：
+
+![zhongzheng100zhishu000903](/xiaolai-main-course-public/images/zhongzheng100zhishu000903.jpg)
+
+[上证180指数](http://quote.eastmoney.com/zs000010.html)：
+
+![shangzheng180zhishu000010](/xiaolai-main-course-public/images/shangzheng180zhishu000010.jpg)
 
 再看美股标普500指数：[标普500指数](http://quote.eastmoney.com/gb/zsSPX.html)：
+
+![biaopu500](/xiaolai-main-course-public/images/biaopu500.jpg)
+
 
 
 让我们拿A股最典型的两支ETF基金做个分析，[易方达创业板ETF159915](http://quote.eastmoney.com/sz159915.html)和[嘉实沪深300ETF159919](http://quote.eastmoney.com/sz159919.html)。
