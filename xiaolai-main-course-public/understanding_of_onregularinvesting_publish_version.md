@@ -264,6 +264,9 @@
 
 我能想到最浪漫的事，就是看着你慢慢变富……
 
+李笑来[《定投改变命运》](https://github.com/xiaolai/regular-investing-in-box/blob/master/README.md)，送给你。
+
+
 ## ***"笑来课堂，不仅仅是投资课堂……"***
 
 [返回《笑来课堂索引及个人学习心得》首页](/README.md)
