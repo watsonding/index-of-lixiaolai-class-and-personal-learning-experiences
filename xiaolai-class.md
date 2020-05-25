@@ -19,25 +19,25 @@
 >
 > 花式邀请码，总有一款适合你。快将你的邀请码领回家……
 >
->> eCubJ7SHjMtX5jT2YimRdj
->>
->> SdhbrKYKvC2AM9Ro4nKeVZ
->>
->> GEYbW8FrwwkMgYJSm6JbWC
->>
->> w4cLeWW9MRWvm4wPP5pjYL
->>
->> rHpuwEtqFXnhwMEnaRBEpH
->>
->> oBZW2nkKfBcwWoCUApRp2g
->>
->> aTg7YZ5cSV3GwCPAZ9HCsY
->>
->> rrUWeyuP2dV2g6sutLs88j
->>
->> uZJPgqg9Ym3KcJM5yPiTp
->>
->> YdLioYedS2Qqy6U47pMobL
+>> ULqquMcVwfcSPMMhZD9bkV
+>> 
+>> io3YxfsJQrS4ZGjDgNgFs6
+>> 
+>> s8rgcovmQNnZt57zFJPFdi
+>> 
+>> grfroupTEAkPcAjUqrbSgL
+>> 
+>> kyiDhbmPGmv33FwE5tczmh
+>> 
+>> nXQueCi3WyyJbQmUQoL44E
+>> 
+>> PeJ9PJ6keTko26QPSKazDX
+>> 
+>> 2T9j9KYh7amWnTTWswriW8
+>> 
+>> YdqpmuJr3JV3t8fDmNW2pT
+>> 
+>> iYTrWuGSkF6LBbvsUVJUqE
 >
 > 付费成功后（等值2019.13元人民币的比特币）即成功加入“笑来课堂”
 
